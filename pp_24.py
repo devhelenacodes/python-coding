@@ -34,8 +34,6 @@ def create_board(size):
 
 	print(box)
 
-
-
 # Learned Solution
 def learned_create_board(size):
 	size = 3
